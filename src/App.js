@@ -1,9 +1,9 @@
-import './dist/output.css';
+import './CSS/app.css';
 
 function App() {
   return (
     <div className="App">
-      <h1 className=''>hello</h1>
+      <h1 className='app'>hello</h1>
     </div>
   );
 }
