@@ -1,6 +1,37 @@
 @import 'reset';
 @import 'variables';
 
-h1 {
-  color: #3892ff;
+nav {
+  background-color: $bg-nav;
+  display: flex;
+  justify-content: center;
+  position: sticky;
+  top: 0;
+
+  .nav--main-title {
+    display: flex;
+
+    img {
+      width: 40px;
+    }
+
+    h1 {
+      font-family: $font-title;
+      color: #fff;
+      font-size: 3rem;
+      padding-left: 10px;
+    }
+  }
+
+  .nav--user-icon {
+    width: 35px;
+    position: absolute;
+    right: 2%;
+    top: 50%;
+    transform: translateY(-50%);
+
+    img:hover {
+      cursor: pointer;
+    }
+  }
 }
