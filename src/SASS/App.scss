@@ -1,6 +1,23 @@
 @import 'reset';
 @import 'variables';
 
+.hero {
+  height: 100vh;
+  background-color: #475569;
+
+  svg {
+    width: 70%;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    path {
+      stroke-dashoffset: 0;
+    }
+  }
+}
+
 nav {
   background-color: $bg-nav;
   display: flex;

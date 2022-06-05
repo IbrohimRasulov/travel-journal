@@ -9,7 +9,7 @@ function Navbar() {
         <h1>Travel Journal of Uzbekistan</h1>
       </div>
       <div className="nav--user-icon">
-        <a href="https://www.linkedin.com/in/ibrohimrasulov/">
+        <a href="https://www.linkedin.com/in/ibrohimrasulov/" target="_blank" rel="noreferrer" >
           <img src={user} alt="user" />
         </a>
       </div>

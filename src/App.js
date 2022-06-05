@@ -1,15 +1,15 @@
 import './SASS/App.scss';
+import Hero from './components/Hero';
 import Navbar from './components/Navbar';
-// import Hero from './components/Hero';
-// import Container from './components/Container';
+import Container from './components/Container';
 // import Footer from './components/Footer';
 
 function App() {
   return (
     <div className="App">
-      {/* <Hero /> */}
+      <Hero />
       <Navbar />
-      {/* <Container /> */}
+      <Container />
       {/* <Footer /> */}
     </div>
   );
