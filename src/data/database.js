@@ -5,10 +5,10 @@ export const database = [
     country: "Uzbekistan",
     city: "Tashkent",
     googleMapsUrl: "#",
-    description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam placeat beatae commodi quibusdam eum, fuga eaque nisi? Ratione rem tenetur a, quo, perspiciatis praesentium, dolores veritatis voluptatem nulla commodi harum.",
-    vikipedia: "#",
+    description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam placeat beatae commodi quibusdam eum, fusdwdwwdwga eaque nisi? Ratione rem tenetur a, quo, perspiciatis praesentium, dolores veritatis voluptatem nulla commodi harum.Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam placeat beatae commodi quibusdam eum, fuga eaque nisi? Ratione rem tenetur a, quo, perspiciatis praesentium, dolores veritatis voluptatem nulla commodi harum.",
+    wikipedia: "#",
     imageUrl: "https://www.journalofnomads.com/wp-content/uploads/2019/11/Hazrat-Imam-Complex-Tashkent-Uzbekistan.jpg",
-    moreImages: "https://www.journalofnomads.com/things-to-do-in-tashkent-travel-guide/#1_See_the_worlds_oldest_Koran_at_the_Hazrat_Imam_Complex"
+    moreImages: "#"
   },
   {
     id: 2,
@@ -17,7 +17,7 @@ export const database = [
     city: "Tashkent",
     googleMapsUrl: "#",
     description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam placeat beatae commodi quibusdam eum, fuga eaque nisi? Ratione rem tenetur a, quo, perspiciatis praesentium, dolores veritatis voluptatem nulla commodi harum.",
-    vikipedia: "#",
+    wikipedia: "#",
     imageUrl: "https://www.journalofnomads.com/wp-content/uploads/2019/11/Hazrat-Imam-Complex-Tashkent-Uzbekistan.jpg",
     moreImages: "https://www.journalofnomads.com/things-to-do-in-tashkent-travel-guide/#1_See_the_worlds_oldest_Koran_at_the_Hazrat_Imam_Complex"
   },
@@ -28,7 +28,7 @@ export const database = [
     city: "Tashkent",
     googleMapsUrl: "#",
     description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam placeat beatae commodi quibusdam eum, fuga eaque nisi? Ratione rem tenetur a, quo, perspiciatis praesentium, dolores veritatis voluptatem nulla commodi harum.",
-    vikipedia: "#",
+    wikipedia: "#",
     imageUrl: "https://www.journalofnomads.com/wp-content/uploads/2019/11/Hazrat-Imam-Complex-Tashkent-Uzbekistan.jpg",
     moreImages: "https://www.journalofnomads.com/things-to-do-in-tashkent-travel-guide/#1_See_the_worlds_oldest_Koran_at_the_Hazrat_Imam_Complex"
   },
@@ -39,7 +39,7 @@ export const database = [
     city: "Tashkent",
     googleMapsUrl: "#",
     description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam placeat beatae commodi quibusdam eum, fuga eaque nisi? Ratione rem tenetur a, quo, perspiciatis praesentium, dolores veritatis voluptatem nulla commodi harum.",
-    vikipedia: "#",
+    wikipedia: "#",
     imageUrl: "https://www.journalofnomads.com/wp-content/uploads/2019/11/Hazrat-Imam-Complex-Tashkent-Uzbekistan.jpg",
     moreImages: "https://www.journalofnomads.com/things-to-do-in-tashkent-travel-guide/#1_See_the_worlds_oldest_Koran_at_the_Hazrat_Imam_Complex"
   },
@@ -50,7 +50,7 @@ export const database = [
     city: "Tashkent",
     googleMapsUrl: "#",
     description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam placeat beatae commodi quibusdam eum, fuga eaque nisi? Ratione rem tenetur a, quo, perspiciatis praesentium, dolores veritatis voluptatem nulla commodi harum.",
-    vikipedia: "#",
+    wikipedia: "#",
     imageUrl: "https://www.journalofnomads.com/wp-content/uploads/2019/11/Hazrat-Imam-Complex-Tashkent-Uzbekistan.jpg",
     moreImages: "https://www.journalofnomads.com/things-to-do-in-tashkent-travel-guide/#1_See_the_worlds_oldest_Koran_at_the_Hazrat_Imam_Complex"
   }

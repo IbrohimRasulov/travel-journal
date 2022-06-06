@@ -1,8 +1,13 @@
 //* FONTS
-@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Dancing+Script&family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Merienda:wght@700&family=Montserrat+Alternates:wght@300&family=Quicksand&display=swap');
 
-$font-title: 'Amatic SC';
-$font-city: 'Dancing Script';
-$font-main: 'Quicksand';
+$font-nav-title: 'Dancing Script';
+$font-city: 'Montserrat Alternates';
+$font-description: 'Quicksand';
+$font-location: 'Merienda';
+$font-link: #918E9B;
 
+//* THEMES
 $bg-nav: #F55A5A;
+$line-break: #f1f5f9;
+$btn-border: green;

@@ -4,18 +4,6 @@
 .hero {
   height: 100vh;
   background-color: #475569;
-
-  svg {
-    width: 70%;
-    position: relative;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-
-    path {
-      stroke-dashoffset: 0;
-    }
-  }
 }
 
 nav {
@@ -24,6 +12,7 @@ nav {
   justify-content: center;
   position: sticky;
   top: 0;
+  z-index: 10;
 
   .nav--main-title {
     display: flex;
@@ -33,9 +22,9 @@ nav {
     }
 
     h1 {
-      font-family: $font-title;
+      font-family: $font-nav-title;
       color: #fff;
-      font-size: 3rem;
+      font-size: 2.2rem;
       padding-left: 10px;
     }
   }
@@ -49,6 +38,109 @@ nav {
 
     img:hover {
       cursor: pointer;
+    }
+  }
+}
+
+.container {
+  width: 70%;
+  margin: 100px auto;
+  font-family: $font-description;
+
+  .card {
+    display: flex;
+    margin: 30px;
+    padding-bottom: 30px;
+    border-bottom: 1px solid $line-break;
+
+    .card--img {
+      width: 40%;
+      position: relative;
+
+      &>img {
+        border-radius: 12px;
+      }
+
+      a {
+        color: black;
+
+        .information {
+          display: flex;
+          align-items: center;
+          position: absolute;
+          top: 5px;
+          right: 5px;
+          background-color: #fff;
+          border-radius: 10px;
+          padding: 5px 18px;
+          opacity: 0;
+          transition: all ease-in-out 0.15s;
+          cursor: pointer;
+
+          img {
+            width: 15px;
+          }
+
+          span {
+            padding-left: 5px;
+          }
+        }
+      }
+
+      &:hover .information {
+        opacity: 1;
+      }
+    }
+
+    .card--info {
+      width: 60%;
+      padding-top: 10px;
+      padding-left: 30px;
+
+      .location {
+        display: flex;
+        align-items: center;
+
+        img {
+          height: 16px;
+          padding-right: 3px;
+        }
+
+        h4 {
+          font-family: $font-city;
+          font-size: 14px;
+          padding-right: 20px;
+        }
+
+        a {
+          color: $font-link;
+        }
+      }
+
+      h2 {
+        font-family: $font-location;
+        font-size: 1.6rem;
+        padding-top: 15px;
+        padding-bottom: 5px;
+      }
+
+      p {
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-line-clamp: 4;
+        -webkit-box-orient: vertical;
+      }
+
+      button {
+        border: none;
+        border-radius: 5px;
+        padding: 5px 12px;
+        margin-top: 10px;
+        background-color: #475569;
+        color: #fff;
+        font-weight: bold;
+        cursor: pointer;
+      }
     }
   }
 }
