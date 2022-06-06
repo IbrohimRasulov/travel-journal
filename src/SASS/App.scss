@@ -59,6 +59,10 @@ nav {
 
       &>img {
         border-radius: 12px;
+        min-height: 250px;
+        max-height: 250px;
+        margin: 0 auto;
+        object-fit: cover;
       }
 
       a {

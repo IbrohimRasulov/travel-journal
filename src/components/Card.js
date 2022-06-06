@@ -8,12 +8,12 @@ function Card(props) {
     <div className="card">
       <div className="card--img">
         <img src={imageUrl} alt="place" />
-          <a href={moreImages} target="_blank" rel="noreferrer">
-        <div className="information">
+        <a href={moreImages} target="_blank" rel="noreferrer">
+          <div className="information">
             <img src={information} alt="information" />
             <span>Click for more images</span>
-        </div>
-          </a>
+          </div>
+        </a>
       </div>
 
       <div className="card--info">
