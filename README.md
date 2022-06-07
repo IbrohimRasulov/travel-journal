@@ -10,7 +10,7 @@
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://ibrohimrasulov.github.io/travel-journal/)
+[Live Demo Link](https://travel-journal-uzb.netlify.app/)
 
 ## Authors
 
