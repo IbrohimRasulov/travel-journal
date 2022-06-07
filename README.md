@@ -6,15 +6,15 @@
 
 - HTML, CSS, JavaScript
 - React
-- SASS, CSS Animations, GSAP
+- SASS, CSS Animations, Animate on scroll library
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://ibrohimrasulov.github.io/travel-journal/)
 
 ## Authors
 
-👤 **Author1**
+👤 **Ibrohim Rasulov**
 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
