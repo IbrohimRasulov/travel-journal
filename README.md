@@ -7,6 +7,7 @@
 - HTML, CSS, JavaScript
 - React
 - SASS, CSS Animations, Animate on scroll library
+- Custom SVG animated images
 
 ## Live Demo (if available)
 
