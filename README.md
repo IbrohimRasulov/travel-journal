@@ -1,6 +1,8 @@
-# Travel Journal
+# Travel Journal of Uzbekistan
 
-> Description the project.
+> Travel Journal is web platform that showcase beautiful scenes of Uzbekistan by giving small description and images. If you are interested to discover more specific destination you can get google map position, more images, or detailed information from wikipedia by clicking links respectively. This is a complete solo project, part of [Scrimba React course](https://scrimba.com/learn/learnreact) using this given [figma design](https://www.figma.com/file/QG4cOExkdbIbhSfWJhs2gs/Travel-Journal?node-id=0%3A1).
+
+https://user-images.githubusercontent.com/78875455/177039684-774fd99a-3eed-4ac9-afab-05c51b9c6969.mp4
 
 ## Built With
 
@@ -9,7 +11,7 @@
 - SASS, CSS Animations, Animate on scroll library
 - Custom SVG animated images
 
-## Live Demo (if available)
+## Live Demo
 
 [Live Demo Link](https://travel-journal-uzb.netlify.app/)
 
